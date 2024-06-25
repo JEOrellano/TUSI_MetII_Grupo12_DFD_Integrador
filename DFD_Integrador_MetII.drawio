@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T08:11:31.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="1ICJfBliO4QOpxriq8-P" version="24.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-25T08:12:12.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="7n2aU-afqJO1OYKmM2fQ" version="24.6.2" type="github" pages="3">
   <diagram id="dtz4ZYm2-1124x_eL9rx" name="DFD">
     <mxGraphModel dx="1878" dy="3203" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2724,8 +2724,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9wjKTY-XB9VHCorTKTHB-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;1 FN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="374" width="80" height="40" as="geometry" />
+        <mxCell id="9wjKTY-XB9VHCorTKTHB-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;DER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9wjKTY-XB9VHCorTKTHB-2" value="UBICACIONES CABECERA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry y="80" width="360" height="416" as="geometry" />
